@@ -1,1 +1,1 @@
-C:\Users\Aluno\Desktop\CoffeeSpot\App1\App1\App1.csproj;neutral
+G:\StartUP\CoffeeSpot1\App1\App1\App1.csproj;neutral
